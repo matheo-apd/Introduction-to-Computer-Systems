@@ -1,0 +1,15 @@
+Two's complement is a way of representing the opposite of a binary number within a finite number of bits.
+Given a number of n bits (with the most significant bit being 0 if the number is positive, and 1 if it's negative), 
+the following algorithm is used to obtain it's two's complement:
+
+- Invert all of the bits of the number
+- Sum 1 to the result, ignoring the carry-out of the total sum
+
+E.g., the for 00110101011, it's two's complement is equal to:
+
+~00110101011 + 1 =
+ 11001010100 + 1 =
+ 11001010101
+
+The range of integer numbers possible to represent is [- 2^(n-1), 2^(n-1) - 1].
+
