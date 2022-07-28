@@ -1,2 +1,2 @@
-# Introduction to Computer Systems
-Homework activities for the subject "Introduction to Computer Systems". 
+#Introdução a Sistemas Computacionais
+Avaliações da matéria "Introdução a Sistemas Computacionais" (prof. Simões)
