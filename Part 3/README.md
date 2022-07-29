@@ -70,3 +70,6 @@ Obs: você pode colocar um arquivo.asm na pasta do simulador e abrir ela no subl
 
 #VIDEO DO JOGO RODANDO
 < https://github.com/Gustavo-Blois/INTRODU-O-A-SISTEMAS-COMPUTACIONAIS/blob/main/Video%20do%20Jogo%20para%20ISC.mkv >
+
+#Grupo
+Gustavo Blois, Matheo Angelo Pereira Dantas
